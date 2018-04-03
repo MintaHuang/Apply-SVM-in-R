@@ -9,7 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## In this problem, we will apply a support vector machine to classify hand-written digits. 
+## You do not have to implement the SVM algorithm: The R library e1071 provides an implementation.
 
 ```{r}
 setwd("/Users/minta/Desktop/5241 HW3 3.22")
