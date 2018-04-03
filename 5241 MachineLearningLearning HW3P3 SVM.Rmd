@@ -1,6 +1,6 @@
 ---
 title: "5241 HW3P3"
-author: "Mengjia Huang"
+author: "MollyH"
 date: "2018/3/20"
 output: html_document
 ---
